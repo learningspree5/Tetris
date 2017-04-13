@@ -1,2 +1,2 @@
 # Tetris
-Developing a Tetris game
+Developing a Tetris game using a C# programming
